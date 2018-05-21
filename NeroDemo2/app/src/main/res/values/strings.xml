@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">రేవంత్ న్యూరో కేర్</string>
+    <string name="home">హోమ్</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="appointment">అపాయింట్మెంట్</string>
+    <string name="appointmentHeadDetails">అపాయింట్మెంట్ వివరాలు </string>
+    <string name="appointmentDetails">మీ వివరాలను నమోదు చేయండి</string>
+    <string name="doctor_info">డాక్టర్ గారి గురించి</string>
+    <string name="health_tips">వ్యాధులపై అవగాహన</string>
+    <string name="reviews">సమీక్షలు</string>
+    <string name="contactus">మమ్మల్ని సంప్రదించండి</string>
+    <string name="contactdetails">సంప్రదింపు వివరాలు</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_scrolling">డాక్టర్ రేవంత్</string>
+    <string name="patientName">పేరు*                        :</string>
+    <string name="patientPhone">ఫోను నంబరు*          :</string>
+    <string name="patientEmail">ఇమెయిల్                  :</string>
+    <string name="patientName_hint">పేరు</string>
+    <string name="patientPhone_hint">ఫోను నంబరు</string>
+    <string name="patientEmail_hint">ఇమెయిల్</string>
+
+    <string name="appointmentDate">తేదీని ఎంచుకోండి      :</string>
+    <string name="selectDate">తేదీ&amp;సమయం</string>
+    <string name="selectedDate">ఎంచుకున్న తేదీ*       :</string>
+    <string name="selectedTime">అపాయింట్మెంట్ తేదీ &amp; సమయం*:</string>
+    <string name="selectedAppTime">తేదీ మరియు సమయం: </string>
+    <string name="age">వయస్సు* :</string>
+    <string name="age_hint">వయస్సు</string>
+    <string name="appointmentConfirmationDetails">అపాయింట్మెంట్ నిర్ధారణ వివరాలు:</string>
+    <string name="save_appointment_details">గ్యాలరీకి సేవ్ చేయండి</string>
+    <string name="selectTime">సమయ విభాగం</string>
+    <string name="timeBtn">క్లిక్ చేయండి</string>
+    <string name="bookAppointment">అపాయింట్మెంట్ బుక్ చేయండి </string>
+    <string name="req_time">దయచేసి ఒక స్లాట్ను ఎంచుకోండి</string>
+    <string name="select_time_desc">దయచేసి మీ అనుకూలమైన సమయాన్ని ఎంచుకోండి</string>
+    <string name="appointment_success_message">మీ అపాయింట్మెంట్ విజయవంతంగా నిర్ధారించబడింది.\nరేవంత్ న్యూరో కేర్ సిబ్బంది మీకు కాల్ చేసి మీతో మాట్లాడతారు.</string>
+    <string name="thankyou">ధన్యవాదాలు.</string>
+    <string name="confirmationNumberText">ధృవీకరణ సంఖ్య : </string>
+    <string name="confirmationName">పేరు : </string>
+    <string name="confirmationAge">వయస్సు : </string>
+    <string name="confirmationPhone">ఫోను నంబరు : </string>
+    <string name="confirmationEMail">ఇమెయిల్ : </string>
+    <string name="appointmentDateTime">అపాయింట్మెంట్ తేదీ &amp; సమయం : </string>
+    <string name="confirmation_address_label">చిరునామా:</string>
+    <string name="confirmation_address">10-13-555, Opp. సరస్వతి విద్యా మందిర్ స్కూల్ 4 వ లేన్, రెడ్డి &amp; రెడ్డి కాలనీ, తిరుపతి.</string>
+    <string name="large_text">
+       నాడీ శాస్త్రం (గ్రీకు: νεῦρον, న్యూరాన్, మరియు suffix -logo -logia "అధ్యయనం") అనేది నాడీ వ్యవస్థ యొక్క రుగ్మతలతో వ్యవహరించే వైద్య విభాగం. కేంద్ర మరియు పరిధీయ నాడీ వ్యవస్థ (మరియు దాని ఉపవిభాగాలు, స్వతంత్ర నాడీ వ్యవస్థ మరియు సోమాటిక్ నాడీ వ్యవస్థ) పాల్గొన్న అన్ని రకాల పరిస్థితులు మరియు వ్యాధి నిర్ధారణ మరియు చికిత్సతో నరాల శాస్త్రం వ్యవహరిస్తుంది; వాటి కవచాలు, రక్త నాళాలు మరియు కండరాల వంటి అన్ని ప్రభావవంతమైన కణజాలాలతో సహా. [1] న్యూరోలాజికల్ అభ్యాసం నాడీ వ్యవస్థ యొక్క శాస్త్రీయ అధ్యయనమైన నాడీశాస్త్రం యొక్క రంగంపై ఆధారపడుతుంది.
+
+నరాల శాస్త్రవేత్త నాడీశాస్త్రంలో నైపుణ్యం కలిగిన వైద్యుడు మరియు నరాల సంబంధిత రుగ్మతలపై దర్యాప్తు చేయడానికి లేదా పరిశోధించడానికి మరియు చికిత్సకు శిక్షణ పొందుతాడు. [2] నరాల నిపుణులు కూడా క్లినికల్ రీసర్చ్, క్లినికల్ ట్రయల్స్, మరియు ప్రాథమిక లేదా అనువాద పరిశోధనలలో పాల్గొంటారు. నరాలజీ అనేది శస్త్రచికిత్స లేనిది, దాని సంబంధిత శస్త్రచికిత్స ప్రత్యేకమైనది న్యూరోసర్జరీ. [2]
+
+నరాల శాస్త్రం మరియు మనోరోగచికిత్స యొక్క రంగాల మధ్య ముఖ్యమైన బంధం ఉంది, రెండు విభాగాలు మరియు వారు కొంతవరకు అస్పష్టంగా వ్యవహరిస్తున్న పరిస్థితుల మధ్య సరిహద్దుతో.
+    </string>
+    <string name="health_tips_text">
+    గ్రీన్ లీఫ్ కూరగాయలు
+    విటమిన్ బీ కాంప్లెక్స్, విటమిన్ సి, విటమిన్ ఇ, మెగ్నీషియం లాంటివి ఆకుపచ్చని ఆకుకూరల్లో పుష్కలంగా ఉంటాయి. వీటిలో మా నాడీ వ్యవస్థ యొక్క సరైన పనితీరుకు చాలా ముఖ్యమైనవి. హృదయ స్పందన, శ్వాసక్రియ మరియు జీర్ణక్రియను నియంత్రించే మెదడు రసాయనాలు, న్యూరోట్రాన్స్మిటర్లను సింథసైజింగ్ మరియు ప్రసరించే ప్రక్రియలో విటమిన్ B అవసరం. మెగ్నీషియం నరాలను కత్తిరించడంలో సహాయపడుతుంది. విటమిన్ E మరియు C నాడీ వ్యవస్థకు వ్యతిరేక కాలవ్యవధిగా పనిచేస్తాయి.
+    ఫిష్
+    నరములు మైలిన్ షీట్ లచే రక్షించబడతాయి, ఇవి చాలా అధిక కొవ్వు ఆమ్లం కలిగి ఉంటాయి. కాబట్టి, కొవ్వు ఆమ్లాల లోపం ఉన్న వ్యక్తులు నరాలు దెబ్బతినవచ్చు. చేపలకు ఒమేగా 3 కొవ్వు ఆమ్లం ఉంటుంది, అందువలన నరాల మరియు నాడీ వ్యవస్థ యొక్క వైద్యం లో సహాయపడుతుంది.
+    డార్క్ చాక్లెట్
+    అన్ని చాక్లెట్లు సమానంగా తయారు చేయవు. వాస్తవానికి, మార్కెట్లో అందుబాటులో ఉన్న 70 శాతం చాక్లెట్లు ఎంతో ప్రాసెస్ చేయబడ్డాయి మరియు వాటికి ఎలాంటి ప్రయోజనాలు లేవు.
+    డార్క్ చాక్లెట్లు ఫెవానోల్స్తో నిండి ఉంటాయి, ఇవి యాంటీ ఇన్ఫ్లమేటరీ మరియు యాంటీ ఆక్సిడెంట్ ఆస్తి కలిగి ఉంటాయి. ఈ లక్షణాలు రక్తపోటును తగ్గిస్తాయి మరియు రక్త ప్రవాహాన్ని మెదడు మరియు గుండె రెండింటికి పెంచుతాయి. పాలు మరియు తెలుపు చాక్లెట్లు దాటవేసి కోకో యొక్క కనీసం 70 శాతం తక్కువగా ప్రాసెస్డ్ డార్క్ చాక్లెట్ కోసం వెళ్ళండి. ఇది మీరు దాని మెదడు ప్రయోజనాలను పొందుతాయని నిర్ధారిస్తుంది!
+    బ్రోకలీ
+    బ్రోకలీ విటమిన్ K లో అధికంగా ఉంటుంది, ఇది మెదడు శక్తి మరియు అభిజ్ఞా నైపుణ్యాలను మెరుగుపరుస్తుంది. బ్రోకలీ గ్లూకోసినోలేట్స్ అనే సమ్మేళనంలో సమృద్ధిగా ఉన్నందున, న్యూరోట్రాన్స్మిటర్, అసిటైల్కోలిన్, సెంట్రల్ నాడీ వ్యవస్థ దాని పనితీరు సరిగా నిర్వహించాల్సిన అవసరం ఉందని, మన మెదడు మరియు జ్ఞాపకశక్తిని పదునైన ఉంచుతుంది. అసిటైల్కోలిన్ తక్కువ స్థాయిలో అల్జీమర్స్ యొక్క సంబంధం కలిగి ఉంటాయి.
+    </string>
+    <string name="title_activity_doctor_info">DoctorInfoActivity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_number"> 0877 2226086, 96296 16086</string>
+    <string name="email"> revanth@rnc.care</string>
+    <string name="address">ఫోను నంబరు: 0877 2226086, 96296 16086 \n
+        ఇమెయిల్: revanth@rnc.care\n
+            చిరునామా: 10-13-555, Opp. సరస్వతి విద్యా మందిర్ స్కూల్\n
+    4 వ లేన్, రెడ్డి &amp; రెడ్డి కాలనీ, తిరుపతి</string>
+</resources>

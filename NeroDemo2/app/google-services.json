@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "486850241203",
+    "firebase_url": "https://arnc-a495f.firebaseio.com",
+    "project_id": "arnc-a495f",
+    "storage_bucket": "arnc-a495f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486850241203:android:6bed02ebc3bd8ca8",
+        "android_client_info": {
+          "package_name": "com.nero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486850241203-dfe0q86mevsjb004uvnqckng5cn8pvvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptLJ_KEzliEs3bRUdHdjeNb8Epfdd0kw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
